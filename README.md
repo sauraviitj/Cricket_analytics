@@ -14,12 +14,22 @@ Music: Queens of Neon Fjords by Stocktune
 Video Editing Software: Microsoft Clipchamp
 Assistance: GitHub Copilot
 # Important Links
-Colab Notebook: [Open Colab Notebook]((https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing))
-LinkedIn Post: [See the announcement on LinkedIn]((https://www.linkedin.com/posts/saurav-chowdhury-a193b3117_cricket-t20-worldcup-activity-7214521037315571712-hnve?utm_source=share&utm_medium=member_desktop))
-Youtube Link :[Open Youtube_Link]((https://youtu.be/6Kz-f0upxnI))
+
+
+**Colab Notebook**: [Open Colab Notebook](https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing)
+**LinkedIn Post**: [See the announcement on LinkedIn](https://www.linkedin.com/posts/saurav-chowdhury-a193b3117_cricket-t20-worldcup-activity-7214521037315571712-hnve?utm_source=share&utm_medium=member_desktop)
+**YouTube Link**: [Open YouTube Link](https://youtu.be/6Kz-f0upxnI)
+
+
+Let me know if there are any more changes you need!
 # Credits
 Board of Cricket Control of India (BCCI)
 Data: ESPN Cricinfo
 Music: Queens of Neon Fjords by Stocktune
+```bash
+git clone https://github.com/sauraviitj/Cricket_analytics.git
+cd qr-code-excel-generator
+
+```
 # Copyright Notice
 This video and any part of it cannot be reproduced or used without permission.
