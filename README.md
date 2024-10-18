@@ -13,10 +13,10 @@ Data: ESPN Cricinfo
 Music: Queens of Neon Fjords by Stocktune
 Video Editing Software: Microsoft Clipchamp
 Assistance: GitHub Copilot
-# Video Links
-# Colab Notebook: [Open Colab Notebook]((https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing))
-# LinkedIn Post: [See the announcement on LinkedIn]((https://www.linkedin.com/posts/saurav-chowdhury-a193b3117_cricket-t20-worldcup-activity-7214521037315571712-hnve?utm_source=share&utm_medium=member_desktop))
-# Youtube Link :[Open Youtube_Link]((https://youtu.be/6Kz-f0upxnI))
+# Important Links
+Colab Notebook: [Open Colab Notebook]((https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing))
+LinkedIn Post: [See the announcement on LinkedIn]((https://www.linkedin.com/posts/saurav-chowdhury-a193b3117_cricket-t20-worldcup-activity-7214521037315571712-hnve?utm_source=share&utm_medium=member_desktop))
+Youtube Link :[Open Youtube_Link]((https://youtu.be/6Kz-f0upxnI))
 # Credits
 Board of Cricket Control of India (BCCI)
 Data: ESPN Cricinfo
